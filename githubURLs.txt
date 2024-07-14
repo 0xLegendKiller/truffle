@@ -1,0 +1,2 @@
+https://github.com/0xLegendKiller/trufflehog_test.git
+https://github.com/legendkillerx0/Vulnerable-Flask-App.git
